@@ -23,3 +23,5 @@ for der enter M-N-S, where S is the derivative order you are willing to use
 
 If you are willing to process more than just one file, the usage of *.bat files is reccomended.
 Hope everything runs smoothly!
+
+This program is distributed under GNU General Public License. 
